@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82C58E"
+    android:orientation="vertical"
+    tools:context=".Activities.SalahCategoryActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Prayer (salah; plural salawat) is one of the five pillars of Islam. It is incumbent upon all mature Muslims, and highly recommended for children aged ten and over, to complete their five daily prayers according to the method described here in order for them to be valid. It is believed that communication with Allah will bring life to the prayerful and bring them courage."
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"
+        android:textSize="18dp"/>
+
+    <Button
+        android:id="@+id/btnWudu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="#fff"
+        android:text="How to make wudu" />
+
+    <Button
+        android:id="@+id/btnSalahMen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:text="Salah for men" />
+
+    <Button
+        android:id="@+id/btnSalahWomen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:text="Salah for women" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Deen e Islam</string>
+
+    <string name="first_kalma">Laaa Ilaaha Illa-llaahu Muhammadur-Rasoolu-llaah </string>
+    <string name="first_kalma_T">There is none worthy of worship except Allah and Muhammad is the Messenger of Allah</string>
+
+    <string name="second_kalma">Ash-hadu Al-laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka Lahoo Wa-Ash-hadu Anna Muhammadan ‘Abduhoo Wa Rasooluhu.</string>
+    <string name="second_kalma_T">I bear witness that there is none worthy of worship except Allah, the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger</string>
+
+    <string name="third_kalma">Subhaana-llaahi Walhamdu Lillaahi Walaaa Ilaaha Illa-llaahu Wallaahu Akbar. Walaa Hawla Walaa Quwwata Illaa Billaahi-l ‘Aliyyil ‘Azeem.</string>
+    <string name="third_kalma_T">Glory be to Allah and all praise be to Allah, there is none worthy of worship except Allah, and Allah is the Greatest. There is no might or power except from Allah, the Exalted, the Great One.</string>
+
+    <string name="forth_kalma">Laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka-lahoo Lahu-l Mulku Walahu-l Hamdu Yuhyee Wayumeetu Wahuwa Hayyu-l Laa Yamootu Abadan Abada. Dhu-l Jalaali Wal Ikraam. Biyadihil Khair. Wahuwa Alaa Kulli Shai-’in Qadeer.</string>
+    <string name="forth_kalma_T">There is none worthy of worship except Allah. He is alone and has no partner. To Him belongs the Kingdom and for Him is all praise. He gives life and causes death. In His hand is all good and He has power over everything</string>
+
+    <string name="fifth_kalma">Astaghfiru-llaaha Rabbi Min Kulli Dhambin Adhnabtuhoo ‘Amadan Aw Khata-an Sirran Aw ‘Alaaniyata-wn Wa-atoobu Ilaihi Min-adh Dhambi-l Ladhee A’lamu Wamina-dh Dhambi-l Ladhi Laaa A’lamu Innaka Anta ‘Allaamu-l Ghuyoobi Wasattaaru-l ‘Uyoobi Wa Ghaffaaru-dh Dhunubi Walaa Hawla Walaa Quwwata Illaa Billaahi-l ‘Aliyyil ‘Azeem.</string>
+    <string name="fifth_kalma_T">I seek forgiveness from Allah, who is my Creator and Cheriser, from every sin I committed knowingly or unknowingly, secretly or openly. I also seek His forgiveness for all sins which I am aware of or am not aware of. Certainly You (O Allah!), are the Knower of the hidden and the Concealer of mistakes and the Forgiver of sins. And there is no power and no strength except from Allah, the Most High, the Most Great.</string>
+
+    <string name="sixth_kalma">Allaa-humma Inneee A’udhu-bika Min An Ushrika Bika Shay-awn Wa-ana A’lamu Bihee Wa- astaghfiruka Limaa Laaa A’lamu Bihee Tubtu ‘Anhu Wata-barraatu Mina-l Kufri Wash-shirki Wal-kidhbi Wal-gheebati Wal-bid’ati Wan-nameemati Wal-fawahishi Wal-buhtaani Wal-m’aasi Kulli-haa Wa-Aslamtu Wa-aqoolu Laaa Ilaaha Illa-llaahu Muhammadu-r Rasoolu-llah.</string>
+    <string name="sixth_kalma_T">O Allah! I seek refuge in You from that I should ascribe any partner with You knowingly. I seek Your forgiveness for the sin of which I have no knowledge. I repent from it. And becoming disgusted of disbelief and idolatry, lying and backbiting, innovation and slander, lewdness and abomination and all other acts of disobedience, I submit to Your will. I believe and I declare that there is none worthy of worship except Allah and Muhammad is the Messenger of Allah.</string>
+
+
+</resources>

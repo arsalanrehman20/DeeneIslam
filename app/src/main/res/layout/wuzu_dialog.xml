@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Wuzu"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:layout_marginTop="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:textSize="17dp"
+            android:text="Wuḍūʾ (Arabic: الوضوء‎  is the Islamic procedure for washing parts of the body, a type of ritual purification, or ablution. Wudu involves washing the hands, mouth, nostrils, arms, head and feet with water and is an important part of ritual purity in Islam." />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/wudu"
+            android:scaleType="fitXY"/>
+
+    </LinearLayout>
+</RelativeLayout>
